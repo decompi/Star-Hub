@@ -1,0 +1,47 @@
+{
+    "1794805560": {
+        "Script": "Aimstars.lua",
+        "Name": "Aimstars"
+    },
+    "111958650": {
+        "Script": "Arsenal.lua",
+        "Name": "Arsenal"
+    },
+    "994732206": {
+        "Script": "BloxFruits.lua",
+        "Name": "Blox Fruits"
+    },
+    "1008451066": {
+        "Script": "DaHood.lua",
+        "Name": "Da Hood"
+    },
+    "532222553": {
+        "Script": "IslandRoyale.lua",
+        "Name": "IR"
+    },
+    "2295349620": {
+        "Script": "NerfStrike.lua",
+        "Name": "NERF Strike"
+    },
+    "1671731888": {
+        "Script": "Pistol1v1.lua",
+        "Name": "Pistol 1v1"
+    },
+    "2101149508": {
+        "Script": "REFLEX.lua",
+        "Name": "REFLEX"
+
+    },
+    "1511883870": {
+        "Script": "Shindo.lua",
+        "Name": "Shindo"
+    },
+    "833423526": {
+        "Script": "Strucid.lua",
+        "Name": "Strucid"
+    },
+    "2633106921": {
+        "Script": "Timber.lua",
+        "Name": "Timber"
+    }
+}
