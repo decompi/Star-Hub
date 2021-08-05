@@ -15,6 +15,14 @@
         "Script": "DaHood.lua",
         "Name": "Da Hood"
     },
+    "323675642": {
+        "Script": "FE2.lua",
+        "Name": "Flood Escape 2"
+    },
+    "1956765797": {
+        "Script": "FrogSim.lua",
+        "Name": "Frog Simulator"
+    },
     "532222553": {
         "Script": "IslandRoyale.lua",
         "Name": "IR"
@@ -27,10 +35,18 @@
         "Script": "Pistol1v1.lua",
         "Name": "Pistol 1v1"
     },
+    "2694265705": {
+        "Script": "PWS.lua",
+        "Name": "Pressure Wash"
+    },
     "2101149508": {
         "Script": "REFLEX.lua",
         "Name": "REFLEX"
 
+    },
+    "321279858": {
+        "Script": "SharkBite.lua",
+        "Name": "SharkBite"
     },
     "1511883870": {
         "Script": "Shindo.lua",
